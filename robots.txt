@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://akisui.github.io/machi-web/sitemap.xml

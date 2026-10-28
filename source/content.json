@@ -1,0 +1,537 @@
+{
+  "ja": {
+    "label": "日本語",
+    "lang": "ja",
+    "title": "まち — ライブの予定と、思い出を。",
+    "description": "ライブの予定、チケット、あの日の記録。まちは、好きな公演との時間をまとめる iPhone・iPad アプリです。",
+    "nav": [
+      "できること",
+      "使い方・サポート"
+    ],
+    "join": "TestFlight で試す",
+    "eyebrow": "ライブのある日々に。",
+    "hero": [
+      "会いに行く日も、",
+      "思い出す日も。"
+    ],
+    "intro": "次の公演を楽しみにする気持ちも、帰り道に残った余韻も。まちは、ライブの予定と記録をひとつにまとめるアプリです。",
+    "explore": "まちを見てみる",
+    "compat": "完全無料 · アプリ内課金なし / iPhone・iPad / iOS 17 以降",
+    "version": "v1.0 · Ready Steady Go!",
+    "tabs": [
+      "予定",
+      "チケット",
+      "足跡",
+      "検索"
+    ],
+    "caps": [
+      "楽しみな日が、ひと目で。",
+      "これからも、これまでの一枚も。",
+      "好きが重なった、一年。",
+      "次の出会いを探しに。"
+    ],
+    "demo": "アプリの実画面です。参加状況はデモ用の記録です。",
+    "sectionKicker": "A PLACE FOR EVERY LIVE",
+    "sectionTitle": "予定から、\n大切な記録へ。",
+    "calendarTitle": "カレンダーに、\n楽しみが増えていく。",
+    "calendarBody": "月表示と週表示を切り替えて、公演のある日をひと目で確認。日付を選ぶと、その日の公演がすぐ下に。",
+    "calendarFoot": "月・週カレンダー / 日ごとの公演",
+    "walletTitle": "まだ先の一日も、\n忘れられない一夜も。",
+    "walletBody": "参加予定、参加した公演、気になる公演。それぞれの気持ちを分けて残せるチケット。自分で公演や出演者を追加することもできます。",
+    "walletFoot": "参加予定 / 過去の公演 / 検討中",
+    "archiveTitle": "振り返るほど、\n好きが見えてくる。",
+    "archiveBody": "よく会った出演者、通った会場、ライブのある週。足跡を一年ごとに振り返り、参戦レシートを写真に残せます。",
+    "archiveFoot": "年間の振り返り / ランキング / 参戦レシート",
+    "personalTitle": "自分の記録だから、\n自分らしく。",
+    "personalBody": "感想を手記に。お気に入りの写真をポスターに。出演者の写真や表示順も、プロフィールも、好きな形に整えられます。",
+    "syncTitle": "これまでの記録も、\nこれからの予定も。",
+    "syncBody": "EVENTERNOTE アカウントをつないで、過去の参加記録を手軽に取り込み、その後の参加記録やフォローも同期。自分で追加した公演、写真、プロフィールなどは iCloud で自分のデバイス間に引き継げます。",
+    "syncPills": [
+      "過去の記録を取り込む",
+      "EVENTERNOTE と同期",
+      "自分のデータは iCloud へ"
+    ],
+    "closingKicker": "まち v1.0",
+    "closingTitle": "次の一日を、\nまちと。",
+    "closingBody": "まち 1.0 を TestFlight で公開中。\nいつものライブに、連れていってください。",
+    "stepsTitle": "はじめかた",
+    "steps": [
+      [
+        "TestFlight を入れる",
+        "App Store から Apple の TestFlight アプリをインストール。"
+      ],
+      [
+        "テストに参加する",
+        "このページの「TestFlight で試す」から、まちを開きます。"
+      ],
+      [
+        "まちをインストール",
+        "TestFlight 内でインストールし、記録を始められます。"
+      ]
+    ],
+    "supportTitle": "よくある質問とサポート",
+    "faq": [
+      [
+        "EVENTERNOTE と連携できますか？",
+        "EVENTERNOTE アカウントを接続すると、過去の参加記録やフォローを取り込み、以後の変更も同期できます。「マイページ → データ同期」から設定してください。"
+      ],
+      [
+        "公演や写真のデータはどこから？",
+        "公演の検索・閲覧には EVENTERNOTE の公演・出演者データを使用しています。公演と出演者は自分で追加することもできます。出演者の写真は AniList、設定済みの TMDB、一部出演者の YouTube を利用し、自分の写真にも変更できます。"
+      ],
+      [
+        "TMDB の API key は必要ですか？",
+        "基本機能には不要です。TMDB の写真を利用する場合は、自分の API key を「マイページ → 設定 → 写真サービス」で追加してください。"
+      ],
+      [
+        "どの言語に対応していますか？",
+        "日本語、簡体中文、繁體中文（台灣・香港）、English に対応。アプリ内の設定から選べます。"
+      ],
+      [
+        "TestFlight のリンクから参加できません。",
+        "テストの募集状況や定員によって、新しい参加を受け付けない場合があります。TestFlight を更新して再度リンクを開くか、GitHub のサポート窓口をご利用ください。"
+      ],
+      [
+        "不具合や要望を送りたい。",
+        "TestFlight のフィードバック、または GitHub のサポート窓口をご利用ください。端末名、iOS とまちのバージョン、再現手順があると助かります。"
+      ]
+    ],
+    "contact": "お問い合わせ",
+    "privacy": "プライバシーポリシー",
+    "credit": "まち / machi",
+    "language": "言語",
+    "skip": "本文へ",
+    "photoAlt": "まちのアプリ画面",
+    "dataNote": "公演・出演者データ：EVENTERNOTE。写真サービス：AniList・TMDB・一部 YouTube。",
+    "nojs": "TestFlight でまちを試す",
+    "feedbackLink": "GitHub でフィードバック"
+  },
+  "zh-Hans": {
+    "label": "简体中文",
+    "lang": "zh-Hans",
+    "title": "まち — 收藏每一次相见",
+    "description": "日程、票夹、手记与足迹。まち是一款记录演出与回忆的 iPhone、iPad App，支持 iCloud 与 EVENTERNOTE 同步。",
+    "nav": [
+      "认识まち",
+      "使用与支持"
+    ],
+    "join": "加入 TestFlight",
+    "eyebrow": "献给有演出的日子。",
+    "hero": [
+      "把每一次相见，",
+      "好好收藏。"
+    ],
+    "intro": "下一场演出的期待，和散场后不舍的余韵。用まち整理行程、收好参加记录，把属于自己的现场留在身边。",
+    "explore": "看看まち",
+    "compat": "完全免费 · 无内购 · 无订阅 / iPhone 与 iPad / iOS 17 及以上",
+    "version": "v1.0 · Ready Steady Go!",
+    "tabs": [
+      "日程",
+      "票夹",
+      "足迹",
+      "搜索"
+    ],
+    "caps": [
+      "有期待的日子，一眼看见。",
+      "从未来的期待，到过去的回忆。",
+      "每一次相见，都留下足迹。",
+      "从喜欢的人，找到下一场演出。"
+    ],
+    "demo": "真实 App 界面，参加状态为演示记录。",
+    "sectionKicker": "A PLACE FOR EVERY LIVE",
+    "sectionTitle": "从一份日程，\n到一段回忆。",
+    "calendarTitle": "让日历里，\n多一些期待。",
+    "calendarBody": "月历与周历自由切换，有演出的日子清楚标记。选中日期，当天的演出就在日历下方，出发前一眼就能找到。",
+    "calendarFoot": "月历与周历 / 每日演出安排",
+    "walletTitle": "还没到的那一天，\n舍不得忘的那一晚。",
+    "walletBody": "即将参加、参加过、考虑参加，分别收进票夹。也可以自己添加演出和出演者，把过去的记录慢慢补齐。",
+    "walletFoot": "即将参加 / 参加过 / 考虑参加",
+    "archiveTitle": "回头看看，\n喜欢有了形状。",
+    "archiveBody": "见面最多的出演者、熟悉的会场、有演出的每一周。按年份回顾足迹，再把参战小票存入相册，留下一年的纪念。",
+    "archiveFoot": "年度回顾 / 出演者与会场排名 / 参战小票",
+    "personalTitle": "自己的现场，\n当然要有自己的样子。",
+    "personalBody": "把感想写进手记，用喜欢的照片作海报。出演者头像、显示顺序，以及个人头像与签名，都可以按喜好调整。",
+    "syncTitle": "从过去的现场，\n同步到下一次相见。",
+    "syncBody": "连接 EVENTERNOTE 账号，轻松导入过去的参加记录，让之后的参加记录和关注保持同步。自定义演出、照片、个人资料等内容，可以通过 iCloud 同步到自己的其他设备。",
+    "syncPills": [
+      "导入过去的记录",
+      "EVENTERNOTE 持续同步",
+      "iCloud 同步自定义数据"
+    ],
+    "closingKicker": "まち v1.0",
+    "closingTitle": "下一次相见，\n带上まち。",
+    "closingBody": "まち 1.0 已开放 TestFlight 测试。\n从下一场演出，或最想记住的那一场开始。",
+    "stepsTitle": "三步开始记录",
+    "steps": [
+      [
+        "安装 TestFlight",
+        "在 App Store 下载 Apple 的 TestFlight App。"
+      ],
+      [
+        "加入测试",
+        "点击本页「加入 TestFlight」，打开まち的测试页面。"
+      ],
+      [
+        "安装まち",
+        "在 TestFlight 内安装 App，开始记录自己的演出。"
+      ]
+    ],
+    "supportTitle": "常见问题与支持",
+    "faq": [
+      [
+        "可以连接 EVENTERNOTE 吗？",
+        "可以。在「我的 → 数据同步」连接 EVENTERNOTE 账号，即可导入过去的参加记录和关注，并同步之后的变更。iCloud 同步可在同一页面分别设置。"
+      ],
+      [
+        "演出资料和照片来自哪里？",
+        "演出搜索与浏览使用 EVENTERNOTE 的演出和出演者数据，也支持自行添加演出与出演者。出演者照片使用 AniList、已配置的 TMDB，以及部分出演者的 YouTube，也可以换成自己上传的照片。"
+      ],
+      [
+        "必须添加 TMDB Key 吗？",
+        "使用基本功能无需添加。若需要 TMDB 的出演者照片，可在「我的 → 设置 → 照片服务」填写自己的 API key。"
+      ],
+      [
+        "支持哪些语言？",
+        "支持日文、简体中文、台湾正体中文、香港繁体中文和英文，可在 App 设置中切换。"
+      ],
+      [
+        "TestFlight 链接无法加入？",
+        "测试名额或招募状态可能影响加入。请更新 TestFlight 后重试，也可以通过 GitHub 支持入口反馈。"
+      ],
+      [
+        "怎样反馈问题或建议？",
+        "可以通过 TestFlight 提交反馈，或在 GitHub 支持入口记录问题与建议。提供设备型号、iOS 与 App 版本、复现步骤，会更便于排查。"
+      ]
+    ],
+    "contact": "联系与反馈",
+    "privacy": "隐私政策",
+    "credit": "まち / machi",
+    "language": "语言",
+    "skip": "跳至正文",
+    "photoAlt": "まち App 界面",
+    "dataNote": "演出与出演者数据：EVENTERNOTE。照片服务：AniList、TMDB 及部分 YouTube。",
+    "nojs": "通过 TestFlight 体验まち",
+    "feedbackLink": "反馈问题或建议"
+  },
+  "en": {
+    "label": "English",
+    "lang": "en",
+    "title": "machi — Make room for every live moment",
+    "description": "Your live-event calendar, tickets, notes and memories, together. Discover machi for iPhone and iPad and join the TestFlight beta.",
+    "nav": [
+      "Meet machi",
+      "Help & support"
+    ],
+    "join": "Join TestFlight",
+    "eyebrow": "FOR A LIFE FULL OF LIVE MOMENTS.",
+    "hero": [
+      "The anticipation.",
+      "The afterglow."
+    ],
+    "intro": "The next show on your mind. The last song still in your head. Keep your live-event plans and memories together, with machi.",
+    "explore": "Take a look",
+    "compat": "Completely free · No purchases or subscriptions / iPhone & iPad / iOS 17 or later",
+    "version": "v1.0 · Ready Steady Go!",
+    "tabs": [
+      "Calendar",
+      "Tickets",
+      "Memories",
+      "Search"
+    ],
+    "caps": [
+      "Something to look forward to.",
+      "From looking ahead to looking back.",
+      "A year of showing up for what you love.",
+      "Start with a favorite. Find your next show."
+    ],
+    "demo": "Actual app screens. Attendance is shown with demo records.",
+    "sectionKicker": "A PLACE FOR EVERY LIVE",
+    "sectionTitle": "First, a date.\nThen, a memory.",
+    "calendarTitle": "A little more\nto look forward to.",
+    "calendarBody": "Switch between month and week views. Spot your event days, choose a date, and see the day's plans right below the calendar.",
+    "calendarFoot": "Month & week views / Daily agenda",
+    "walletTitle": "The night ahead.\nThe night you still remember.",
+    "walletBody": "Keep upcoming, attended and maybe events in their own places. Add your own events and performers, including the shows you went to long ago.",
+    "walletFoot": "Upcoming / Attended / Considering",
+    "archiveTitle": "Look back.\nSee what you love.",
+    "archiveBody": "The performers you saw most. The venues you kept returning to. Revisit your year in live events, then save an attendance receipt to Photos.",
+    "archiveFoot": "Year in review / Rankings / Attendance receipt",
+    "personalTitle": "Your memories.\nYour own little details.",
+    "personalBody": "Write a note after the show. Pick your own poster. Adjust performer photos and their order, and make your profile feel like you.",
+    "syncTitle": "Bring your history.\nKeep it in sync.",
+    "syncBody": "Connect your EVENTERNOTE account to easily import your past attendance records and keep attendance and follows in sync. Use iCloud to sync your custom events, photos, profile and other personal data across your own devices.",
+    "syncPills": [
+      "Import your event history",
+      "Stay in sync with EVENTERNOTE",
+      "Custom data, synced with iCloud"
+    ],
+    "closingKicker": "まち v1.0",
+    "closingTitle": "Bring machi\nto the next one.",
+    "closingBody": "machi 1.0 is available on TestFlight.\nStart with your next show—or a night worth remembering.",
+    "stepsTitle": "Three steps to your first record",
+    "steps": [
+      [
+        "Get TestFlight",
+        "Install Apple's TestFlight app from the App Store."
+      ],
+      [
+        "Join the beta",
+        "Use “Join TestFlight” on this page to open the machi invitation."
+      ],
+      [
+        "Install machi",
+        "Install the app in TestFlight and start your event journal."
+      ]
+    ],
+    "supportTitle": "Questions & support",
+    "faq": [
+      [
+        "Can I connect EVENTERNOTE?",
+        "Yes. Connect your EVENTERNOTE account under My Page → Data sync to import past attendance records and follows, then sync subsequent changes. You can configure iCloud sync separately on the same page."
+      ],
+      [
+        "Where do event details and photos come from?",
+        "Event search and browsing use event and performer data from EVENTERNOTE. You can also add your own events and performers. Performer photos use AniList, TMDB when configured, and YouTube for selected performers. You can upload your own photos too."
+      ],
+      [
+        "Do I need a TMDB API key?",
+        "Not for the core features. To use TMDB performer photos, add your own API key under My Page → Settings → Photo services."
+      ],
+      [
+        "Which languages are supported?",
+        "Japanese, Simplified Chinese, Traditional Chinese for Taiwan and Hong Kong, and English. Choose a language in the app's settings."
+      ],
+      [
+        "Why can't I join through the TestFlight link?",
+        "Availability and tester limits can affect new invitations. Update TestFlight and try the link again, or use the GitHub support page."
+      ],
+      [
+        "How can I send feedback?",
+        "Send feedback through TestFlight or report an issue on GitHub. Include your device, iOS and app versions, and the steps to reproduce the issue."
+      ]
+    ],
+    "contact": "Contact & feedback",
+    "privacy": "Privacy policy",
+    "credit": "まち / machi",
+    "language": "Language",
+    "skip": "Skip to content",
+    "photoAlt": "machi app screen",
+    "dataNote": "Event & performer data: EVENTERNOTE. Photo services: AniList, TMDB and selected YouTube channels.",
+    "nojs": "Try machi on TestFlight",
+    "feedbackLink": "Feedback on GitHub"
+  },
+  "zh-Hant-TW": {
+    "label": "正體中文（台灣）",
+    "lang": "zh-Hant-TW",
+    "title": "まち — 收藏每一次相見",
+    "description": "行程、票夾、手記與足跡。まち是一款記錄演出與回憶的 iPhone、iPad App，支援 iCloud 與 EVENTERNOTE 同步。",
+    "nav": [
+      "認識まち",
+      "使用與支援"
+    ],
+    "join": "加入 TestFlight",
+    "eyebrow": "獻給有演出的日子。",
+    "hero": [
+      "把每一次相見，",
+      "好好收藏。"
+    ],
+    "intro": "下一場演出的期待，和散場後不捨的餘韻。用まち整理行程、收好參加紀錄，把屬於自己的現場留在身邊。",
+    "explore": "看看まち",
+    "compat": "完全免費 · 無 App 內購買 · 無訂閱 / iPhone 與 iPad / iOS 17 以上版本",
+    "version": "v1.0 · Ready Steady Go!",
+    "tabs": [
+      "行程",
+      "票夾",
+      "足跡",
+      "搜尋"
+    ],
+    "caps": [
+      "有期待的日子，一眼看見。",
+      "從未來的期待，到過去的回憶。",
+      "每一次相見，都留下足跡。",
+      "從喜歡的人，找到下一場演出。"
+    ],
+    "demo": "實際 App 畫面，參加狀態為示範紀錄。",
+    "sectionKicker": "A PLACE FOR EVERY LIVE",
+    "sectionTitle": "從一份行程，\n到一段回憶。",
+    "calendarTitle": "讓日曆裡，\n多一些期待。",
+    "calendarBody": "月曆與週曆自由切換，有演出的日子清楚標記。選取日期，當天的演出就在月曆下方，出發前一眼就能找到。",
+    "calendarFoot": "月曆與週曆 / 每日演出安排",
+    "walletTitle": "還沒到的那一天，\n捨不得忘的那一晚。",
+    "walletBody": "即將參加、參加過、考慮參加，分別收進票夾。也可以自己新增演出和出演者，把過去的紀錄慢慢補齊。",
+    "walletFoot": "即將參加 / 參加過 / 考慮參加",
+    "archiveTitle": "回頭看看，\n喜歡有了形狀。",
+    "archiveBody": "見面最多的出演者、熟悉的場地、有演出的每一週。按年份回顧足跡，再把參戰小票存入相簿，留下一年的紀念。",
+    "archiveFoot": "年度回顧 / 出演者與場地排名 / 參戰小票",
+    "personalTitle": "自己的現場，\n當然要有自己的樣子。",
+    "personalBody": "把感想寫進手記，用喜歡的照片作海報。出演者照片、顯示順序，以及個人大頭貼與簽名，都可以按喜好調整。",
+    "syncTitle": "從過去的現場，\n同步到下一次相見。",
+    "syncBody": "連結 EVENTERNOTE 帳號，輕鬆匯入過去的參加紀錄，讓之後的參加紀錄和關注保持同步。自訂演出、照片、個人資料等內容，可以透過 iCloud 同步到自己的其他裝置。",
+    "syncPills": [
+      "匯入過去的紀錄",
+      "EVENTERNOTE 持續同步",
+      "iCloud 同步自訂資料"
+    ],
+    "closingKicker": "まち v1.0",
+    "closingTitle": "下一次相見，\n帶上まち。",
+    "closingBody": "まち 1.0 已開放 TestFlight 測試。\n從下一場演出，或最想記住的那一場開始。",
+    "stepsTitle": "三步開始記錄",
+    "steps": [
+      [
+        "安裝 TestFlight",
+        "在 App Store 下載 Apple 的 TestFlight App。"
+      ],
+      [
+        "加入測試",
+        "點選本頁「加入 TestFlight」，開啟まち的測試頁面。"
+      ],
+      [
+        "安裝まち",
+        "在 TestFlight 內安裝 App，開始記錄自己的演出。"
+      ]
+    ],
+    "supportTitle": "常見問題與支援",
+    "faq": [
+      [
+        "可以連結 EVENTERNOTE 嗎？",
+        "可以。在「我的 → 資料同步」連結 EVENTERNOTE 帳號，即可匯入過去的參加紀錄和關注，並同步之後的變更。iCloud 同步可在同一頁面分別設定。"
+      ],
+      [
+        "演出資料和照片來自哪裡？",
+        "演出搜尋與瀏覽使用 EVENTERNOTE 的演出和出演者資料，也支援自行新增演出與出演者。出演者照片使用 AniList、已設定的 TMDB，以及部分出演者的 YouTube，也可以換成自己上傳的照片。"
+      ],
+      [
+        "必須新增 TMDB Key 嗎？",
+        "使用基本功能不需新增。若需要 TMDB 的出演者照片，可在「我的 → 設定 → 照片服務」填寫自己的 API key。"
+      ],
+      [
+        "支援哪些語言？",
+        "支援日文、簡體中文、台灣正體中文、香港繁體中文和英文，可在 App 設定中切換。"
+      ],
+      [
+        "TestFlight 連結無法加入？",
+        "測試名額或招募狀態可能影響加入。請更新 TestFlight 後重試，也可以透過 GitHub 支援入口回報。"
+      ],
+      [
+        "如何回報問題或建議？",
+        "可以透過 TestFlight 提交回饋，或在 GitHub 支援入口記錄問題與建議。提供裝置型號、iOS 與 App 版本、重現步驟，會更便於排查。"
+      ]
+    ],
+    "contact": "聯絡與回饋",
+    "privacy": "隱私權政策",
+    "credit": "まち / machi",
+    "language": "語言",
+    "skip": "跳至主要內容",
+    "photoAlt": "まち App 畫面",
+    "dataNote": "演出與出演者資料：EVENTERNOTE。照片服務：AniList、TMDB 及部分 YouTube。",
+    "nojs": "透過 TestFlight 體驗まち",
+    "feedbackLink": "回報問題或建議"
+  },
+  "zh-Hant-HK": {
+    "label": "繁體中文（香港）",
+    "lang": "zh-Hant-HK",
+    "title": "まち — 收藏每一次相見",
+    "description": "日程、票夾、手記與足跡。まち是一款記錄演出與回憶的 iPhone、iPad App，支援 iCloud 與 EVENTERNOTE 同步。",
+    "nav": [
+      "認識まち",
+      "使用與支援"
+    ],
+    "join": "加入 TestFlight",
+    "eyebrow": "獻給有演出的日子。",
+    "hero": [
+      "把每一次相見，",
+      "好好收藏。"
+    ],
+    "intro": "下一場演出的期待，和散場後不捨的餘韻。用まち整理日程、收好參加記錄，把屬於自己的現場留在身邊。",
+    "explore": "看看まち",
+    "compat": "完全免費 · 無 App 內購買 · 無訂閱 / iPhone 與 iPad / iOS 17 以上版本",
+    "version": "v1.0 · Ready Steady Go!",
+    "tabs": [
+      "日程",
+      "票夾",
+      "足跡",
+      "搜尋"
+    ],
+    "caps": [
+      "有期待的日子，一眼看見。",
+      "從未來的期待，到過去的回憶。",
+      "每一次相見，都留下足跡。",
+      "從喜歡的人，找到下一場演出。"
+    ],
+    "demo": "實際 App 畫面，參加狀態為示範記錄。",
+    "sectionKicker": "A PLACE FOR EVERY LIVE",
+    "sectionTitle": "從一份日程，\n到一段回憶。",
+    "calendarTitle": "讓日曆裡，\n多一些期待。",
+    "calendarBody": "月曆與周曆自由切換，有演出的日子清楚標記。選擇日期，當天的演出就在月曆下方，出發前一眼就能找到。",
+    "calendarFoot": "月曆與周曆 / 每日演出安排",
+    "walletTitle": "還沒到的那一天，\n捨不得忘的那一晚。",
+    "walletBody": "即將參加、參加過、考慮參加，分別收進票夾。也可以自己新增演出和出演者，把過去的記錄慢慢補齊。",
+    "walletFoot": "即將參加 / 參加過 / 考慮參加",
+    "archiveTitle": "回頭看看，\n喜歡有了形狀。",
+    "archiveBody": "見面最多的出演者、熟悉的場地、有演出的每一周。按年份回顧足跡，再把參戰小票存入相簿，留下一年的紀念。",
+    "archiveFoot": "年度回顧 / 出演者與場地排名 / 參戰小票",
+    "personalTitle": "自己的現場，\n當然要有自己的樣子。",
+    "personalBody": "把感想寫進手記，用喜歡的照片作海報。出演者照片、顯示順序，以及個人頭像與簽名，都可以按喜好調整。",
+    "syncTitle": "從過去的現場，\n同步到下一次相見。",
+    "syncBody": "連結 EVENTERNOTE 帳戶，輕鬆匯入過去的參加記錄，讓之後的參加記錄和關注保持同步。自訂演出、照片、個人資料等內容，可以透過 iCloud 同步到自己的其他裝置。",
+    "syncPills": [
+      "匯入過去的記錄",
+      "EVENTERNOTE 持續同步",
+      "iCloud 同步自訂資料"
+    ],
+    "closingKicker": "まち v1.0",
+    "closingTitle": "下一次相見，\n帶上まち。",
+    "closingBody": "まち 1.0 已開放 TestFlight 測試。\n從下一場演出，或最想記住的那一場開始。",
+    "stepsTitle": "三步開始記錄",
+    "steps": [
+      [
+        "安裝 TestFlight",
+        "在 App Store 下載 Apple 的 TestFlight App。"
+      ],
+      [
+        "加入測試",
+        "點按本頁「加入 TestFlight」，開啟まち的測試頁面。"
+      ],
+      [
+        "安裝まち",
+        "在 TestFlight 內安裝 App，開始記錄自己的演出。"
+      ]
+    ],
+    "supportTitle": "常見問題與支援",
+    "faq": [
+      [
+        "可以連結 EVENTERNOTE 嗎？",
+        "可以。在「我的 → 資料同步」連結 EVENTERNOTE 帳戶，即可匯入過去的參加記錄和關注，並同步之後的變更。iCloud 同步可在同一頁面分別設定。"
+      ],
+      [
+        "演出資料和照片來自哪裡？",
+        "演出搜尋與瀏覽使用 EVENTERNOTE 的演出和出演者資料，也支援自行新增演出與出演者。出演者照片使用 AniList、已設定的 TMDB，以及部分出演者的 YouTube，也可以換成自己上傳的照片。"
+      ],
+      [
+        "必須新增 TMDB Key 嗎？",
+        "使用基本功能毋須新增。若需要 TMDB 的出演者照片，可在「我的 → 設定 → 照片服務」填寫自己的 API key。"
+      ],
+      [
+        "支援哪些語言？",
+        "支援日文、簡體中文、台灣正體中文、香港繁體中文和英文，可在 App 設定中切換。"
+      ],
+      [
+        "TestFlight 連結無法加入？",
+        "測試名額或招募狀態可能影響加入。請更新 TestFlight 後重試，也可以透過 GitHub 支援入口回報。"
+      ],
+      [
+        "如何反映問題或建議？",
+        "可以透過 TestFlight 提交意見，或在 GitHub 支援入口記錄問題與建議。提供裝置型號、iOS 與 App 版本、重現步驟，會更便於排查。"
+      ]
+    ],
+    "contact": "聯絡與意見",
+    "privacy": "隱私權政策",
+    "credit": "まち / machi",
+    "language": "語言",
+    "skip": "跳至主要內容",
+    "photoAlt": "まち App 畫面",
+    "dataNote": "演出與出演者資料：EVENTERNOTE。照片服務：AniList、TMDB 及部分 YouTube。",
+    "nojs": "透過 TestFlight 體驗まち",
+    "feedbackLink": "回報問題或建議"
+  }
+}

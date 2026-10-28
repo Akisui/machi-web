@@ -1,0 +1,5 @@
+.DS_Store
+.qa.html
+.qa-*.png
+source/add-traditional.py
+source/refine-sync-copy.py
